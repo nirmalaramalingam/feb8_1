@@ -1,0 +1,6 @@
+username: nirmalar
+pw: bangalore@18
+
+teamname: seleniumlearning
+
+new project: name: actitime, repo name: acti
